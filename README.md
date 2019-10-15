@@ -1,4 +1,4 @@
-# Pesquisa ordenação dos estados americanos com maior população incarcerada
+# Pesquisa de ordenação dos estados americanos com maior população encarcerada
 
 ## Aluno  
 | Matrícula | Nome |  
